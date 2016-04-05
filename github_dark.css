@@ -734,7 +734,7 @@ background-position: left top !important;
     background: #181818 !important;
     border-color: #484848 !important;
   }
-  .header, .headers, #readme .markdown-body, .social-count, .file, .box-body,
+  .header, .site-header, .headers, #readme .markdown-body, .social-count, .file, .box-body,
   .markdown-body table tr:nth-child(2n), .steps li,
   .explore-section:nth-child(2n), .markdown-format table, .list-group-item,
   .chromed-list-browser .none p, .chromed-list-browser .error p,
@@ -1460,7 +1460,7 @@ background-position: left top !important;
   .pagehead-tabs-item.selected, a.pagehead-tabs-item.selected,
   .pagehead-tabs-item:hover, a.pagehead-tabs-item:hover, .article-meta,
   a.article-meta, .timeline-comment-header-text code a, .commit-tease-sha,
-  a.commit-tease-sha, .reponav-item.selected {
+  a.commit-tease-sha, .reponav-item.selected, .site-header .header-logo-invertocat {
     color: #c0c0c0 !important;
   }
   h5, h6, .edit-repository-meta, .field label, .boxed-group-list li, .capped-box,
